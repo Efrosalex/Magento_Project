@@ -1,0 +1,25 @@
+1758536924019,924,Homepage HTTP Request,200,OK,Thread Group 1-1,text,true,,56027,133,5,5,https://magento2demo.firebearstudio.com/,881,0,104
+1758536924218,947,Homepage HTTP Request,200,OK,Thread Group 1-2,text,true,,56027,133,5,5,https://magento2demo.firebearstudio.com/,903,0,88
+1758536924418,941,Homepage HTTP Request,200,OK,Thread Group 1-3,text,true,,56027,133,5,5,https://magento2demo.firebearstudio.com/,898,0,84
+1758536924618,887,Homepage HTTP Request,200,OK,Thread Group 1-4,text,true,,56027,133,5,5,https://magento2demo.firebearstudio.com/,845,0,88
+1758536924819,925,Homepage HTTP Request,200,OK,Thread Group 1-5,text,true,,56027,133,5,5,https://magento2demo.firebearstudio.com/,883,0,89
+1758536924948,2118,Men Category HTTP Request,200,OK,Thread Group 1-1,text,true,,153157,141,5,5,https://magento2demo.firebearstudio.com/men.html,2056,0,0
+1758536925165,2089,Men Category HTTP Request,200,OK,Thread Group 1-2,text,true,,153157,141,5,5,https://magento2demo.firebearstudio.com/men.html,2026,0,0
+1758536925506,2022,Men Category HTTP Request,200,OK,Thread Group 1-4,text,true,,153149,141,5,5,https://magento2demo.firebearstudio.com/men.html,1960,0,0
+1758536925359,2212,Men Category HTTP Request,200,OK,Thread Group 1-3,text,true,,153156,141,5,5,https://magento2demo.firebearstudio.com/men.html,2150,0,0
+1758536925745,2131,Men Category HTTP Request,200,OK,Thread Group 1-5,text,true,,153157,141,5,5,https://magento2demo.firebearstudio.com/men.html,2069,0,0
+1758536927067,2884,Women Category HTTP Request,200,OK,Thread Group 1-1,text,true,,163518,286,5,5,https://magento2demo.firebearstudio.com/women.html,268,0,37
+1758536927067,268,Women Category HTTP Request-0,302,Found,Thread Group 1-1,text,true,,4466,143,5,5,http://magento2demo.firebearstudio.com/women.html,268,0,37
+1758536927335,2616,Women Category HTTP Request-1,200,OK,Thread Group 1-1,text,true,,159052,143,5,5,https://magento2demo.firebearstudio.com/women.html,2581,0,0
+1758536927254,2925,Women Category HTTP Request,200,OK,Thread Group 1-2,text,true,,163511,286,4,4,https://magento2demo.firebearstudio.com/women.html,256,0,37
+1758536927254,256,Women Category HTTP Request-0,302,Found,Thread Group 1-2,text,true,,4466,143,4,4,http://magento2demo.firebearstudio.com/women.html,256,0,37
+1758536927510,2669,Women Category HTTP Request-1,200,OK,Thread Group 1-2,text,true,,159045,143,4,4,https://magento2demo.firebearstudio.com/women.html,2630,0,0
+1758536927528,2979,Women Category HTTP Request,200,OK,Thread Group 1-4,text,true,,163512,286,3,3,https://magento2demo.firebearstudio.com/women.html,268,0,37
+1758536927528,268,Women Category HTTP Request-0,302,Found,Thread Group 1-4,text,true,,4466,143,3,3,http://magento2demo.firebearstudio.com/women.html,268,0,37
+1758536927796,2711,Women Category HTTP Request-1,200,OK,Thread Group 1-4,text,true,,159046,143,3,3,https://magento2demo.firebearstudio.com/women.html,2676,0,0
+1758536927571,2952,Women Category HTTP Request,200,OK,Thread Group 1-3,text,true,,163512,286,2,2,https://magento2demo.firebearstudio.com/women.html,282,0,37
+1758536927571,282,Women Category HTTP Request-0,302,Found,Thread Group 1-3,text,true,,4466,143,2,2,http://magento2demo.firebearstudio.com/women.html,282,0,37
+1758536927853,2670,Women Category HTTP Request-1,200,OK,Thread Group 1-3,text,true,,159046,143,2,2,https://magento2demo.firebearstudio.com/women.html,2596,0,0
+1758536927877,2976,Women Category HTTP Request,200,OK,Thread Group 1-5,text,true,,163512,286,1,1,https://magento2demo.firebearstudio.com/women.html,285,0,37
+1758536927877,285,Women Category HTTP Request-0,302,Found,Thread Group 1-5,text,true,,4466,143,1,1,http://magento2demo.firebearstudio.com/women.html,285,0,37
+1758536928163,2690,Women Category HTTP Request-1,200,OK,Thread Group 1-5,text,true,,159046,143,1,1,https://magento2demo.firebearstudio.com/women.html,2616,0,0
